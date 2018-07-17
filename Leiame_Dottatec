@@ -1,0 +1,5 @@
+Atenção!
+
+Inicialmente restaure o banco de dados no SGBD Microsoft SQL Server;
+Caso o SGBD seja uma instância do tipo .\instância é necessário editar a classe ConexaoDB.cs alterando a string connection.
+Descompactar o projeto e executá-lo com Visual Studio.
